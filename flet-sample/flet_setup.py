@@ -1,6 +1,6 @@
 import flet as ft
 
-from view.MainMenuView import main_menu_page
+from view.MainMenuView import main_menu_page 
 from view.NewTransactionView import new_transaction_page
 
 from view.LoginView import login_page
